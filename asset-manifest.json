@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wariskhan1.github.io/csb-p12jre/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://wariskhan1.github.io/csb-p12jre/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://wariskhan1.github.io/csb-p12jre/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://wariskhan1.github.io/csb-p12jre/static/js/runtime-main.da35d8bf.js",
+    "runtime-main.js.map": "https://wariskhan1.github.io/csb-p12jre/static/js/runtime-main.da35d8bf.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://wariskhan1.github.io/csb-p12jre/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://wariskhan1.github.io/csb-p12jre/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://wariskhan1.github.io/csb-p12jre/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://wariskhan1.github.io/csb-p12jre/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://wariskhan1.github.io/csb-p12jre/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da35d8bf.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
